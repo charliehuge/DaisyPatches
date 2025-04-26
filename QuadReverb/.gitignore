@@ -1,0 +1,5 @@
+# generated files from oopsy
+gen_dsp/
+*.cpp
+*.h
+*.json
